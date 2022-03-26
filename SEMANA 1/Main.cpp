@@ -1,8 +1,7 @@
 #include <iostream>
 #include <conio.h>
 #include <ctime>
-//EJERCICIO 2
-
+//EJERCICIO 2 HOJA 1
 using namespace std;
 
 void generarNotas(int* arregloNotas, int n) {
